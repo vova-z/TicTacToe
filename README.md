@@ -27,4 +27,14 @@ mvn exec:java -Dexec.args="true savefile.txt"
 ```
 
 
+Player makes a move with a command 'row,column'. For example:
 
+```
+>2,2
+```
+
+To exit the game at any time:
+
+```
+>e
+```
