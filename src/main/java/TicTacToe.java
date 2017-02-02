@@ -10,7 +10,6 @@ public class TicTacToe {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Tic Tac Toe!");
-        System.out.println(args);
 
         GameEngine engine;
         if(args.length == 1){
