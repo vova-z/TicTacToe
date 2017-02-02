@@ -17,7 +17,7 @@ mvn exec:java
 
 There are 2 optional command line arguments: [debug flag] [file name]. 
 
-With debug flag on there is additional output on how AI pick next move.
+With debug flag on there is additional output on how AI picks next move.
 
 File name allows to load and save from altenative file.
 
